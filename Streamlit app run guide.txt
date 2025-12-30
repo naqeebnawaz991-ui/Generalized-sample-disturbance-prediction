@@ -1,0 +1,3 @@
+conda activate xgbui
+cd C:\Users\MNNAWA\XGB_UI
+streamlit run app.py
